@@ -1,0 +1,14 @@
+.contentBorder
+{
+    border: solid grey;
+    padding: 3px;
+}
+
+.validationErr
+{
+    color: red;
+}
+
+.btn-space {
+    margin-right: 15px;
+}
